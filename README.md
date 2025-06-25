@@ -20,7 +20,7 @@ cd NNM
 ```
 
 ### Environment
-The Python version is 3.7, PyTorch version is 1.6.0, CUDA version is 10.2, and Faiss version is 1.6.2.
+The Python version is 3.7, PyTorch version is 1.6.0, CUDA version is 10.2, and Faiss version is 1.6.3.
 
 Note: Although I may update the code to support the latest packages, many dependencies cannot be upgraded. For example, the latest version of Faiss has significant changes in the output types of many functions, making it difficult to maintain compatibility. Therefore, for convenience, please follow the instructions as-is—this will automatically create a virtual environment named `nnmtry`.
 

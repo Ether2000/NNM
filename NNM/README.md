@@ -77,7 +77,7 @@ Next, use the generated neighbor information for deep clustering. NNM is a botto
 python scan.py --config_env configs/env.yml --config_exp configs/scan/scan_stl10.yml
 ```
 
-If everything runs smoothly, you will obtain the following results. These results indicate that using this unsupervised clustering model can achieve an accuracy of 80% on STL-10.
+If everything runs smoothly, you will obtain the following results. These results indicate that using this unsupervised clustering model can achieve an accuracy of 69.08% on STL-10.
 
 ![Clustering Process](images/scan.png)
 

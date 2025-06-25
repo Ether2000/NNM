@@ -15,7 +15,7 @@ Clone the repository and navigate to the directory:
 The Git link will be uploaded after the STL-10 demonstration is completed. 
 
 ```bash
-
+git clone https://github.com/Ether2000/NNM.git
 cd NNM
 ```
 
